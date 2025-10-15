@@ -80,8 +80,3 @@ My goal is to design **reliable, explainable, and self-correcting intelligence**
 
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)
-
----
-
-> “Build systems that not only respond — but understand.”  
-> — _Tarek Sanger_
