@@ -69,14 +69,5 @@ My goal is to design **reliable, explainable, and self-correcting intelligence**
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=chainlink&logoColor=white)
 
----
-
-### 🧩 Side Projects
-- **Lumis** – library for multi-agent orchestration and RAG pipelines  
-- **EntropyPilot** – open library for structured LLM reasoning and evaluation  
-- **Aeon** – football intelligence engine for advanced play analysis  
-
----
-
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)
