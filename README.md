@@ -2,12 +2,9 @@
 
 🎯 **Founding Engineer @ [AI Growth Labs](https://aigrowthlabs.com)**  
 🧩 **Previously Founding Engineer @ [Aucctus](https://www.aucctus.com)**
-Builder of intelligent systems that reason, learn, and adapt.   
+Builder of intelligent systems that reason, learn, and adapt.
 
----   
-
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)
 
 ---
 
@@ -23,22 +20,6 @@ LLMs are probabilistic engines. The craft is in architecting the constraints, co
 - **Memory is architecture:** How a system stores, retrieves, and expires knowledge is as important as the model itself.
 
 My goal is to build **reliable, explainable, and self-correcting intelligence** — where uncertainty is contained by architecture, not hidden behind it.
-
----
-
-### 🔬 Open Source
-
-**[lumis](https://pypi.org/project/lumis-ai/)** is a Python agent framework I built because the existing options were bloated and got in the way more than they helped. The goal was simple: composable, observable agentic behavior without the overhead.
-
-- **ReAct agents** with structured reasoning loops
-- **DAG-based workflows** for deterministic multi-step execution
-- **Event-driven lifecycle hooks** for observability at every stage
-- **Multi-provider LLM support** (OpenAI, Anthropic, Mistral, and more)
-- **Vector storage** via Chroma and FAISS
-- **NLP pipelines** for preprocessing and context shaping
-```bash
-pip install lumis-ai
-```
 
 ---
 
