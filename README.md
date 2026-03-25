@@ -2,10 +2,13 @@
 
 🎯 **Founding Engineer @ [AI Growth Labs](https://aigrowthlabs.com)**  
 🧩 **Previously Founding Engineer @ [Aucctus](https://www.aucctus.com)**
-Builder of intelligent systems that reason, learn, and adapt.
----
+Builder of intelligent systems that reason, learn, and adapt.   
+
+---   
+
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)   
+
 ---
 
 ### 🧭 Philosophy
