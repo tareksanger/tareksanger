@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tarek Sanger
 
 🎯 **Founding Engineer @ [AI Growth Labs](https://aigrowthlabs.com)**  
-🧩 **Previously Founding Engineer @ [Aucctus](https://www.aucctus.com)**
+🧩 **Previously Founding Engineer @ [Aucctus](https://www.aucctus.com)**   
 Builder of intelligent systems that reason, learn, and adapt.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tareksanger)
